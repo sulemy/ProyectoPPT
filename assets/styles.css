@@ -1,0 +1,51 @@
+* {
+	margin: 0px; 
+	padding: 0px; 
+	color: white;
+}
+
+@font-face {
+	font-family: shanghai;
+	src: url(fonts/shanghai.ttf);
+}
+
+body {
+	background-image: url('img/index/fondo.jpg');
+	background-size: cover;
+	text-align: center;
+}
+
+h2 {
+	font-size: 50px;
+	font-family: shanghai;
+}
+
+.div__vs{
+	border: 10px solid red;
+	border-radius: 12px;
+	background-color: black;
+
+}
+
+.section__img {
+	height: 500px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around; 
+}
+
+.img__pvsp {
+	width: 300px;
+	height: 200px;
+}
+
+.img__pvscomp {s
+	width: 150px;
+	height: 200px;
+	margin: 0px; 
+	padding: 0px;
+}
+
+
+
+
